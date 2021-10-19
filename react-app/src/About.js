@@ -6,7 +6,7 @@ const About = () => (
       <h2 className="title">Product Wish List</h2>
       <p>
         This project was created to help represent a fundamental app written
-        with React. The shopping theme is used throughout the app.iuiuiuiuyiuyiu
+        with React. The shopping theme is used throughout the app.iuiuiuiuyiuyiux
       </p>
       <br />
       <h2 className="title">Resources</h2>

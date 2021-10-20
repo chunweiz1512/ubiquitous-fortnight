@@ -8,6 +8,9 @@ const NavBar = (props) => (
       <NavLink to="/products" activeClassName="active-link">
         Products
       </NavLink>
+      <NavLink to="/xtermjs" activeClassName="active-link">
+        Command Line
+      </NavLink>
       <NavLink to="/about" activeClassName="active-link">
         About
       </NavLink>
